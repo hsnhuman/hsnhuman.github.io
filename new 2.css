@@ -1,0 +1,15 @@
+body {
+  background-color: azure;
+}
+p1 {
+  font-size: 80px;
+  text-align: center;
+  border: 10px solid rgba(94, 155, 70, 0.562);
+}
+.boxmodel {
+  font-size: 100px;
+  text-align: center;
+  border: solid black;
+  display: inline-block;
+  padding: 20px0;
+}

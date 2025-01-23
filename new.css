@@ -1,0 +1,36 @@
+body {
+  background-image: url(night.jpg);
+  background-size: cover;
+}
+.alpha {
+  color: red;
+  text-align: center;
+  border: 5px solid black;
+  cursor: grabbing;
+  line-height: 120px;
+  font-size: 100px;
+  font-style: italic;
+  font-weight: bold;
+}
+a {
+  text-align: center;
+}
+li {
+  list-style: none;
+  display: inline-table;
+  font-size: 100px;
+}
+.beta {
+  color: azure;
+  font-size: 60px;
+  line-height: 70px;
+  border: 10px solid chocolate;
+}
+img {
+  float: left;
+}
+footer {
+  text-align: center;
+  color: bisque;
+  clear: both;
+}
